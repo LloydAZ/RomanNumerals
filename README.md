@@ -1,5 +1,5 @@
 # RomanNumerals
-This is a solution for Ruby Quiz: http://rubyquiz.com/quiz22.html
+This is a C# .Net Core solution for Ruby Quiz: http://rubyquiz.com/quiz22.html
 
 NOTE: I only wrote the Main method and the IsRomanNumeral method in this program.  The ToArabicNumber and ToRomanNumber methods were designed by Wutz and can be found here: 
 
